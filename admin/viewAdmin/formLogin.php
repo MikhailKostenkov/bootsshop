@@ -16,7 +16,7 @@
 
 <body>
 	<a class="navbar-brand" href="index.php">
-		<img src="../img/logos/logoblack.png" alt="logo">
+		<img src="../img/logos/yaankilogo.png" alt="logo">
 	</a>
 	<div class="container">
 		<div class="row">
