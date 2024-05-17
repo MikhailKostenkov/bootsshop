@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NIKE AIR FORCE 1 LOW CR7 BY YOU</title>
+    <title>NIKE AIR FORCE 1 LOW "1972" </title>
     <link rel="icon" href="img/logo1.ico" type="images/x-icon">
     <link rel="stylesheet" href="css/styleproduct.css">
     <!-- CSS only -->
@@ -17,7 +17,7 @@
   <section id="product">
     <!-- NAVBAR -->
     <a class="navbar-brand" href="index.php">
-      <img src="img/logos/logoblack.png" alt="logo">
+      <img src="img/logos/yaankilogo.png" alt="logo">
     </a>
     <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
@@ -43,7 +43,7 @@
                 <a class="nav-link" href="#">Распродажи</a>
               </li>
               <li class="nav-item6">
-                <a class="nav-link" href="index.php#collection">Коллекции</a>
+                <a class="nav-link" href="index.php#collection">Ближайший Релиз</a>
               </li>
             </ul>
           </div>
@@ -57,15 +57,15 @@
 
 
     <!-- PRODUCT -->
-    <p class="unisex">Унисекс обувь   /Nike Air Force 1 Low CR7 By You</p>
-    <img class="main" src="img/airforce/air_force.jpg" alt="airforce">
+    <p class="unisex">Унисекс обувь   /The Nike Air Force 1 Low "1972" </p>
+    <img class="main" src="img/airforce/forsbok.jpg" alt="airforce">
     <p class="model">Модель  DD3746-991</p>
-    <h1 class="name">Nike Air Force 1 Low CR7 By You</h1>
-    <p class="price">204 €</p>
+    <h1 class="name">The Nike Air Force 1 Low "1972" </h1>
+    <p class="price">205 €</p>
     <!-- COLOR CHOICE -->
-    <img class="black_red" src="img/airforce/air_force.jpg" alt="br">
-    <img class="gold" src="img/airforce/gold.jpg" alt="gold">
-    <img class="wb" src="img/airforce/wb.jpg" alt="wb">
+    <img class="black_red" src="img/airforce/forsbok.jpg" alt="br">
+    <img class="gold" src="img/airforce/fors2bok.jpg" alt="gold">
+    <img class="wb" src="img/airforce/fors404bok.jpg" alt="wb">
     <img class="white" src="img/airforce/white_force.jpg" alt="white">
     <img class="red" src="img/airforce/red.jpg" alt="red">
     <img class="black" src="img/airforce/black.jpg" alt="black">
@@ -110,13 +110,14 @@
 
     <p class="hdescr">Описание товара</p>
     <p class="descr">
-      Кроссовки Nike Air Force 1 Low CR7 By You дополнены
-      деталями в безупречном вкусе Криштиану Роналду. 
-      Это уникальная версия AF1. Выбери материал верха, 
-      например гладкую или мятую кожу, серебристые и золотые накладки
-      с зеркальным хромированным покрытием, а также тщательно продуманные детали. 
-      Если любишь сдержанную роскошь или суперпрокачанный дизайн, 
-      то эти кроссовки будут именно такими, какими захочешь ты.
+    Компания Nike отдает дань уважения своему спортивному фонду, выпуская модель Air Force 1 Low «1972».
+    
+    Кроссовки названы в честь года, когда Nike представил свою первую линию обуви, 
+    в которую входили Moon Shoe и Cortez. Кожаная основа и накладки выполнены в белом и белом оттенках, 
+    а синяя, красная и белая цветовая гамма Blue Ribbon Sports - названия основателей 
+    Nike - присутствует на редких сетчатых панелях из джерси, язычке, вышитых логотипах Nike Air на пятке и стельке, 
+    а также дополнительном брендинге Nike 1972 чуть ниже лодыжки. Кроссовки опираются на белую промежуточную подошву и белую подошву, 
+    а белые шнурки связывают спортивную модель воедино, придавая ей законченность.
     </p>
     <!-- PRODUCT END -->
 

@@ -8,7 +8,7 @@
         <a class="oplata" href="#footer">Способы оплаты</a>
         <a class="svjazj" href="#footer">Связаться с нами</a>
 
-        <h1 class="two">О NIKE</h1>
+        <h1 class="two">О НАС</h1>
         <a class="news" href="#footer">Новости</a>
         <a class="vakansii" href="#footer">Вакансии</a>
         <a class="investors" href="#footer">Инвесторам</a>

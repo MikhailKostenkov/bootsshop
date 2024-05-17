@@ -55,7 +55,7 @@
                         <a class="nav-link" href="#">Распродажи</a>
                       </li>
                       <li class="nav-item6">
-                        <a class="nav-link" href="#collection">Коллекции</a>
+                        <a class="nav-link" href="#collection">Ближайший релиз</a>
                       </li>
                     </ul>
                   </div>
@@ -268,14 +268,14 @@
     <!-- COLLECTION -->
     <section id="collection">
       <div class="collection">
-        <h1 class="collection">Коллекция Nike ACG</h1>
-        <p>Это обувь и одежда из легких влагонепронецаемых материалов для максимальных результатов в любых погодных условиях.<br>
+        <h1 class="collection">Ближайший релиз кроссовок </h1>
+        <p>Такие характеристики, как идеальное сцепление, комфорт и амортизация, делают Dunk Low одинаково популярными как в скейтбординге, так и в баскетболе.<br>
           <br>
-          Мы делаем все по порядку. Прежде чем создавать что-то, мы ищем вдохновение. В этом сезоне наш поиск привел нас в горы Смит-Рок, штат Орегон. Наша новая коллекция вдохновлена этим местом, и ее модели 
-          созданы специально для таких условий. Брюки, куртки, фуболки и обувь этой коллекции отражают дух Смит-Рока.
+          Nike SB Dunk Low J-Pack Chicago - это явная дань уважения Майклу Джордану, который прославился этой расцветкой во времена своей карьеры в команде Chicago Bulls. 
+          Вдохновленные моделью Air Jordan 1 Джордана, скейтовые кроссовки Chicago Dunk Low имеют классический красный цвет и черно-белые акценты.
         </p>
-        <button>Посмотреть коллекцию</button>
-        <img src="img/collection/acg.jpg" alt="acg">
+        <button>Узнать подробнее</button>
+        <img src="img/collection/chicago.png" alt="chicago">
         
         <?php foreach ($arrayAll[2] as $data) {?>
 
@@ -357,7 +357,7 @@
     <section id="mailing">
 
       <div class="mailing">
-        <img src="img/mailing/mailing.jpg" alt="mailing">
+        <img src="img/mailing/banner.png" alt="mailing">
       </div>
       <div class="rectangle9">
         <img class="rectangle" src="img/mailing/white.jpg" alt="white">
