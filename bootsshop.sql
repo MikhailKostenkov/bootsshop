@@ -154,7 +154,7 @@ CREATE TABLE `news` (
 INSERT INTO `news` (`id`, `name`, `news_date`, `text`, `image_path`, `class`, `image_class`, `arrow_class`, `more`) VALUES
 (1, 'Travis Scott x Air Jordan 1 Low OG “Canary” ', '2024-05-17', '17 мая 2024 - Travis Scott x Air Jordan 1 Low OG “Canary” так же будут доступны в женских размерах, а их розничная цена составит 150 долларов США. Запуск продаж состоится в избранных розничных магазинах Jordan Brand, так и в онлайн-магазинах, включая Nike.com.', 'img/news/travisscott.jpg', 'k7', 'k7', 'arrow1', 'arrow1'),
 (2, 'Nike SB Dunk Low by Verdy', '2024-04-18', 'Верди, основатель Girls Don’t Cry, снова сотрудничает с Nike SB, чтобы выпустить новую совместную модель Dunk Low. Вдохновением для этой модели послужила последняя плюшевая игрушка Верди Visty, которую он представил в 2021 году.', 'img/news/verdynikesb.jpg', 'ycss', 'ycss', 'arrow2', 'arrow2'),
-(3, 'Коллекция PlayStation x PUMA', '2024-03-25', 'PUMA и PlayStation объединились, чтобы представить свежую линейку обуви и одежды, в которой особое внимание уделяется нестареющим моделям Suede и RS-X.', 'img/news/pumax.png', 'clothes', 'man_woman', 'arrow3', 'arrow3');
+(3, 'Коллекция PlayStation x PUMA', '2024-03-25', 'PUMA и PlayStation объединились, чтобы представить свежую линейку обуви и одежды, в которой особое внимание уделяется нестареющим моделям Suede и RS-X.', 'img/news/pumax.jpg', 'clothes', 'man_woman', 'arrow3', 'arrow3');
 
 -- --------------------------------------------------------
 
@@ -179,7 +179,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `job`, `email`, `login`, `password`, `status`, `registration_date`, `pass`) VALUES
-(1, 'admin', 'Portal admin', 'admin@nike.com', 'admin', '$2y$12$pxB2ofiiNZkxObmbBvBOyegwCjHCVFYhapjiSsdYXUaJ9Z1IH6pQW', 'admin', '2021-12-01', '123456');
+(1, 'admin', 'Portal admin', 'admin@yaanki.com', 'admin', '$2y$12$pxB2ofiiNZkxObmbBvBOyegwCjHCVFYhapjiSsdYXUaJ9Z1IH6pQW', 'admin', '2021-12-01', '123456');
 
 --
 -- Indexes for dumped tables
